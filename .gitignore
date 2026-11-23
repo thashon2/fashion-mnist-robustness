@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ARTE4110 project data and training outputs
+data/
+outputs/
+*.pt
+*.pth
+
+# Kaggle credentials
+.kaggle/
+kaggle.json
+
+# Keep generated notebook checkpoints out of Git
+.ipynb_checkpoints/
