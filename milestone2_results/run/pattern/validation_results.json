@@ -1,0 +1,8 @@
+{
+  "variant": "pattern",
+  "best_epoch": 8,
+  "best_val_loss": 1.0496202545572622,
+  "parameters": 93764,
+  "pattern_accuracy": 0.5581395348837209,
+  "pattern_macro_f1": 0.32525574375314437
+}
