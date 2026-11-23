@@ -1,0 +1,8 @@
+{
+  "variant": "color",
+  "best_epoch": 5,
+  "best_val_loss": 0.9885517326436302,
+  "parameters": 93893,
+  "color_accuracy": 0.6744186046511628,
+  "color_macro_f1": 0.578810097988339
+}
