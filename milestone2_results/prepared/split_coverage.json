@@ -1,0 +1,17 @@
+{
+  "category": {
+    "train": [],
+    "val": [],
+    "test": []
+  },
+  "color": {
+    "train": [],
+    "val": [],
+    "test": []
+  },
+  "pattern": {
+    "train": [],
+    "val": [],
+    "test": []
+  }
+}

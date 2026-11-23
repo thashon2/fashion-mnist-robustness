@@ -1,0 +1,57 @@
+{
+  "total": 858,
+  "splits": {
+    "train": 600,
+    "val": 129,
+    "test": 129
+  },
+  "counts": {
+    "category": {
+      "Shirts": 300,
+      "Tshirts": 300,
+      "Tops": 94,
+      "Sweaters": 91,
+      "Kurtas": 73
+    },
+    "color": {
+      "blue": 275,
+      "white": 192,
+      "black": 163,
+      "green": 129,
+      "red": 99
+    },
+    "pattern": {
+      "striped": 371,
+      "plain": 250,
+      "checked": 204,
+      "floral": 33
+    }
+  },
+  "category_counts_before_filter": {
+    "Shirts": 1409,
+    "Tshirts": 438,
+    "Tops": 94,
+    "Sweaters": 91,
+    "Kurtas": 73,
+    "Trousers": 52,
+    "Shorts": 50,
+    "Sweatshirts": 44,
+    "Jackets": 42,
+    "Dresses": 12,
+    "Track Pants": 12,
+    "Tunics": 6,
+    "Skirts": 6,
+    "Leggings": 5,
+    "Jeans": 3
+  },
+  "min_category": 65,
+  "max_per_category": 300,
+  "min_pattern": 25,
+  "min_eval_per_pattern": 4,
+  "weak_pattern_labels": true,
+  "manual_reviewed_rows": 0,
+  "manual_exclusions": 0,
+  "split_seed": 42,
+  "split_method": "pattern-stratified-with-all-head-coverage-and-minimum-evaluation-counts",
+  "manual_audit_required": true
+}

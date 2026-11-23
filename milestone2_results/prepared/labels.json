@@ -1,0 +1,22 @@
+{
+  "category": [
+    "Kurtas",
+    "Shirts",
+    "Sweaters",
+    "Tops",
+    "Tshirts"
+  ],
+  "color": [
+    "black",
+    "blue",
+    "green",
+    "red",
+    "white"
+  ],
+  "pattern": [
+    "checked",
+    "floral",
+    "plain",
+    "striped"
+  ]
+}
