@@ -1,0 +1,12 @@
+{
+  "variant": "multi",
+  "best_epoch": 9,
+  "best_val_loss": 3.3750391764234204,
+  "parameters": 95054,
+  "category_accuracy": 0.46511627906976744,
+  "category_macro_f1": 0.2174603174603175,
+  "color_accuracy": 0.6821705426356589,
+  "color_macro_f1": 0.6344357864357865,
+  "pattern_accuracy": 0.4108527131782946,
+  "pattern_macro_f1": 0.2297827903091061
+}
